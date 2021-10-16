@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean id="mycar" class="com.demo.Car" >-->
+<!--        <constructor-arg name="engine1">-->
+<!--            <bean id="engine" class="com.demo.Engine" />-->
+<!--        </constructor-arg>-->
+<!--        <constructor-arg index="1" ref="brake"/>-->
+<!--    </bean>-->
+<!--&lt;!&ndash;    <bean id="engine" class="com.demo.Engine" />&ndash;&gt;-->
+<!--    <bean id="brake" class="com.demo.Brake" />-->
+
+
+<!--    <bean id="mycar" class="com.demo.Car" autowire="">-->
+<!--     -->
+<!--    </bean>-->
+<!--    <bean id="engine" class="com.demo.Engine" />-->
+<!--    <bean id="brake" class="com.demo.Brake" />-->
+
+
+
+
+
+</beans>
